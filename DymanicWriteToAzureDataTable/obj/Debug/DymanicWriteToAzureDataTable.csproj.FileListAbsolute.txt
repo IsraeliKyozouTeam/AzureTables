@@ -1,0 +1,1 @@
+c:\users\nickeladmin\documents\visual studio 2015\Projects\DymanicWriteToAzureDataTable\DymanicWriteToAzureDataTable\bin\Debug\DymanicWriteToAzureDataTable.exe.config
