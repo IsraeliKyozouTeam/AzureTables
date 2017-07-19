@@ -24,7 +24,6 @@ namespace DymanicWriteToAzureStorage
                 int i = 0;
                 foreach (string key in headers.Keys)
                 {
-                    object o = Activator.CreateInstance(headers[key]);
                     dc.Add(key, ConvertToEntityProperty("", headers[key], data[j, i]));
                     i++;
                 }
